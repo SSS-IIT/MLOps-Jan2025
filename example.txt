@@ -1,1 +1,2 @@
-Added example.txt file to the MLOps-Jan2025 Repository.
+Modified example.txt file to the MLOps-Jan2025 Repository.
+Hi,how are you?
